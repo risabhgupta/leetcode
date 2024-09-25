@@ -1,4 +1,4 @@
-package com.comppractice.september;
+package com.comppractice.september.sumofprefixscore;
 
 import java.util.Arrays;
 
